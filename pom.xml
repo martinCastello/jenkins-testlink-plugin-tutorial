@@ -123,8 +123,8 @@
 					<suiteXmlFiles>
 					<!-- TestNG suite XML files -->
 						<suiteXmlFile>D:\jenkins-testlink-plugin-tutorial\src\test\resources\suite.xml</suiteXmlFile>
-						<testFailureIgnore>true</testFailureIgnore>
 					</suiteXmlFiles>
+					<testFailureIgnore>true</testFailureIgnore>
 				</configuration>
 			</plugin>
 		</plugins>
