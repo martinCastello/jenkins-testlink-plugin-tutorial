@@ -122,7 +122,7 @@
 				<configuration>
 					<suiteXmlFiles>
 					<!-- TestNG suite XML files -->
-						<suiteXmlFile>\src\test\suite.xml</suiteXmlFile>
+						<suiteXmlFile>D:\jenkins-testlink-plugin-tutorial\src\test\resources\suite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
